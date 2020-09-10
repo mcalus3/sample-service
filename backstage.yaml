@@ -10,7 +10,9 @@ metadata:
     circleci.com/project-slug: RoadieHQ/sample-service
     github.com/project-slug: RoadieHQ/sample-service
     backstage.io/github-actions-id: RoadieHQ/sample-service
-    cloud.google.com/project-ids: backstage-test-project, backstage-test-project2
+    cloud.google.com/project-ids:
+      - backstage-test-project
+      - backstage-test-project2
 spec:
   type: service
   owner: david@roadie.io
