@@ -11,6 +11,7 @@ metadata:
     github.com/project-slug: RoadieHQ/sample-service
     backstage.io/github-actions-id: RoadieHQ/sample-service
     cloud.google.com/function-ids: projects/backstage-test-project/locations/us-central1/functions/helloMarek,projects/backstage-test-project/locations/us-central1/functions/helloWorld,projects/backstage-test-project2/locations/us-central1/functions/helloMarek,projects/backstage-test-project2/locations/us-central1/functions/helloWorld
+    travis-ci.org/repo-slug: v3/repo/RoadieHQ/sample-service 
 spec:
   type: service
   owner: david@roadie.io
