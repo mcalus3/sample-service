@@ -8,7 +8,7 @@ metadata:
     Backstage plugin for Sentry.
   annotations:
     cloud.google.com/function-ids: projects/backstage-test-project/locations/us-central1/functions/helloMarek,projects/backstage-test-project/locations/us-central1/functions/helloWorld,projects/backstage-test-project2/locations/us-central1/functions/helloMarek,projects/backstage-test-project2/locations/us-central1/functions/helloWorld
-    travis-ci.com/repo-slug: domain/travis-ci.org/owner/RoadieHQ/repo/sample-service 
+    travis-ci.com/repo-slug: RoadieHQ/sample-service 
 spec:
   type: service
   owner: david@roadie.io
