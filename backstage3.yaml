@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-service
+  description: 
+  annotations:
+    github.com/project-slug: mcalus3/sample-service
+spec:
+  type: service
+  owner: mcalus3
+  lifecycle: experimental
