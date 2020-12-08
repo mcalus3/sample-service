@@ -7,7 +7,7 @@ metadata:
     on the sample-service, these are sent to Sentry, then we can view them in the 
     Backstage plugin for Sentry.
   annotations:
-    jira/project-key: BT
+    jira/project-key: backstage-test
 spec:
   type: service
   owner: david@roadie.io
