@@ -8,6 +8,7 @@ metadata:
     Backstage plugin for Sentry.
   annotations:
     jira/project-key: BT
+    jira/component: testComponent
 spec:
   type: service
   owner: david@roadie.io
