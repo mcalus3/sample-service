@@ -8,7 +8,7 @@ metadata:
     Backstage plugin for Sentry.
   annotations:
     aws.com/lambda-function-name: HelloWorld
-    aws.com/lambda-region: us-east-1spec:
+    aws.com/lambda-region: us-east-1
   type: service
   owner: david@roadie.io
   lifecycle: experimental
