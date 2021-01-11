@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-service
+  description: |
+    A service for testing Backstage functionality. For example, we can trigger errors
+    on the sample-service, these are sent to Sentry, then we can view them in the 
+    Backstage plugin for Sentry.
+  annotations:
+    github.com/project-slug: mcalus3/backstage
+spec:
+  type: service
+  owner: david@roadie.io
+  lifecycle: experimental
